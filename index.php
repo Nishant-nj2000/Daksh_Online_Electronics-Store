@@ -45,11 +45,10 @@
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li class="active"><a href="#header"><i class="fa fa-home">Home</i></a></li>
-          <li><a href="#about"><span class="fa fa-info-circle" aria-hidden="true"></span>About Us</a></li>
+          <li class="active"><a href="#header">Home</i></a></li>
+          <li><a href="#about"></span>About Us</a></li>
           <li><a href="#services">Our Services</a></li>
-          <li><a href="signin.php"><span class="fa fa-user" aria-hidden="true"></span>Sign in</a></li>
-          <li><a href="signup.php"><span class="fa fa-user-plus" aria-hidden="true"></span>Sign up</a></li>
+          <li><a href="signin.php"></span>Signin / Signup</a></li>
          <li class="drop-down"><a href="">Drop Down</a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
@@ -67,7 +66,6 @@
               <li><a href="#">Drop Down 5</a></li>
             </ul>
           </li>
-         <!-- <li class="get-started"><a href="#about">Get Started</a></li> -->
         </ul>
       </nav><!-- .nav-menu -->
 
@@ -140,19 +138,9 @@
         </div>
 
         <div class="row content">
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="150">
-            
-             <ul>
-              <li><i class="ri-check-double-line"></i>Welcome to Our Electronic Store</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-
-            </ul> 
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-12 pt-4 pt-lg-0" data-aos="fade-up" data-aos-delay="300">
             <p>
-              Hopping for specialty electronics. Here you’ll find a selection of small to medium brands taking the opportunity to present their products on a national stage. We put brands on the map and give customers and independent opportunities to explore, sample or purchase products that have limited distribution. Our selection is innovative, growing, affordable, and ready for you to browse.
+              Daksh Online is for those who think outside the box, are intellectual when it comes to modern technology and have the curiosity for innovative products that solve a range of modern problems. To reiterate, we are in the business of modern and trending gadgets for modern problems. We have a strong passion for technology and specifically gadgets that serve a purpose. We ourselves have firsthand experience facing the difficulties of some of the problems our online store aims to solve for our customers. In addition, we are committed to providing our customers with the most innovative, trending and relevant gadgets on the market. We are constantly challenging ourselves to ofier this and our forefront aim is to provide, in some regard, lifechanging products to our customers.
             </p>
             <a href="#" class="btn-learn-more">Learn More</a>
           </div>
@@ -479,13 +467,14 @@
               <div class="text-center"><button type="submit">Send Message<br></button></div>
             </form>
           </div>
-
         </div>
 
+      <div style="margin-top: 40px; display: flex; justify-content: center;">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1361.187306895763!2d74.38651675688659!3d23.95263894055958!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9888cc136e5e9240!2sDaksh%20Online_ATM!5e0!3m2!1sen!2sin!4v1614260659539!5m2!1sen!2sin" width="1000px" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe><!-- End Contact Section -->
       </div>
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3733727.448407403!2d72.14597796249996!3d23.952722700000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3966fbf51e28736d%3A0x9888cc136e5e9240!2sDaksh%20Online_ATM!5e0!3m2!1sen!2sin!4v1614077369536!5m2!1sen!2sin" width="1300" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-    </section><!-- End Contact Section -->
 
+    </div>
+  </section>
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
@@ -494,7 +483,7 @@
       <div class="row d-flex align-items-center">
         <div class="col-lg-6 text-lg-left text-center">
           <div class="copyright">
-            Keep Shopping
+            Happy Shopping !
           </div>
         </div>
         <div class="col-lg-6">

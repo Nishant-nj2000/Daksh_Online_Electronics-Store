@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top i:hover {
-  background: #57aae1;
+  background: #f5d730;
   color: #fff;
 }
 
@@ -141,11 +141,6 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   margin: 0 0 0 30px;
   padding: 10px 25px;
-}
-
-.nav-menu .get-started a:hover {
-  background: #57aae1;
-  color: #fff;
 }
 
 .nav-menu .drop-down ul {
@@ -296,8 +291,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav .get-started a:hover {
-  background: #57aae1;
+  background: white;
   color: #fff;
+
 }
 
 .mobile-nav .drop-down > a:after {
